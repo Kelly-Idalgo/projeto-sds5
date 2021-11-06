@@ -1,8 +1,8 @@
-import ImgDsDark from 'assets/img/ds-dark.svg';
+import Chart from 'react-apexcharts';
 
 const BarChart = () => {
 
-  import Chart from 'react-apexcharts';
+
 
   const options = {
     plotOptions: {
